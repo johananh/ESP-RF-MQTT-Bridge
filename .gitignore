@@ -1,0 +1,15 @@
+# Secrets
+network_config.h
+secrets.h
+
+# Arduino/PlatformIO Build files
+.pio/
+__pycache__/
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
